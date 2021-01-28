@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "@material-ui/core": "^4.9.7",
-    "electron": "^8.1.1",
+    "electron": "^9.4.0",
     "electron-devtools-installer": "^3.0.0",
     "electron-is-dev": "^1.1.0",
     "i18next": "^19.3.3",
